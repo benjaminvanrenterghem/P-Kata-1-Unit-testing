@@ -1,0 +1,4 @@
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_Kata1\Kata1\Kata1\obj\Debug\netstandard2.0\Kata1.csprojAssemblyReference.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_Kata1\Kata1\Kata1\obj\Debug\netstandard2.0\Kata1.AssemblyInfoInputs.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_Kata1\Kata1\Kata1\obj\Debug\netstandard2.0\Kata1.AssemblyInfo.cs
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_Kata1\Kata1\Kata1\obj\Debug\netstandard2.0\Kata1.csproj.CoreCompileInputs.cache
